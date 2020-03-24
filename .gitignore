@@ -1,0 +1,13 @@
+# General
+*.log
+.DS_Store
+dist
+*.db
+database.json
+# NodeJS related
+node_modules
+.env
+package-lock.json
+
+
+
