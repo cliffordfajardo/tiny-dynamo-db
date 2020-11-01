@@ -26,6 +26,7 @@ Every numbered folder (ex; v1, v2, v3) contains my code as I was incrementally i
   - implement anti-entropy with Merkle trees
   - implement write ahead log format
   - implement logshipping 
+  - implement a version using protobufs for my data serialization
 
 ## Development
 Just `cd` into one of the folders prefixed with a `v` and launch your editor from there.
