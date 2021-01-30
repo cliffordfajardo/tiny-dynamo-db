@@ -34,3 +34,4 @@ Just `cd` into one of the folders prefixed with a `v` and launch your editor fro
 ## References, Credits, Thanks
 - [DynamoDB paper from Amazon's Engineering Team](http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf)
 - [PynamoDB - David Drysdale's post on his own implementation](https://www.lurklurk.org/pynamo/pynamo.html)
+- My friend [Joshua Goeller's](https://jsgoller1.github.io/) [Shriek - networked key value store](https://github.com/jsgoller1/shriek)
